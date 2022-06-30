@@ -1,0 +1,1 @@
+curl --cacert ca.crt --cert client.crt --key client.key --tlsv1.2 https://192.168.7.254:8443
